@@ -1,0 +1,6 @@
+{
+  "name": "Clinical Knowledge Tracker",
+  "description": "Board prep dashboard and spaced repetition study tool for medical professionals.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
